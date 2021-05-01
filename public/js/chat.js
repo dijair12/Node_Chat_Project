@@ -86,6 +86,8 @@ document
       email: emailUser,
     });
 
+    text.value = "";
+
     document.getElementById("messages").innerHTML += rendered;
   });
 
