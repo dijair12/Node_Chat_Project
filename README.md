@@ -18,17 +18,20 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 ```bash
 # Abra o terminal e copie este repositório com o comando
 
-git clone https: https://github.com/dijair12/Moveit-in-NextJs-with-React.git
+git clone https: https://github.com/dijair12/Node_Chat_Project.git
 # ou use a opção de download.
 
 # Entre na pasta web com 
-cd moveIt
+cd Node_Chat_Project
 
 # Instale as dependências
 yarn install
 
 # Rode o aplicação
 yarn dev
+
+# Visualize o banco
+Utilize a ferramenta que mais lhe conforte para visualizar as tabela criadas.
 
 # Acesse http://localhost:3333/pages/admin para acesso do administrador no seu navagador.
 # Acesse http://localhost:3333/pages/cliente para acesso do cliente no seu navagador.
